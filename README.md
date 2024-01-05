@@ -1,4 +1,5 @@
-[Live Demo]([url](https://cheery-cupcake-be777d.netlify.app/))
+Hosted Link
+https://cheery-cupcake-be777d.netlify.app/
 
 # Getting Started with Create React App
 
